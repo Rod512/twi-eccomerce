@@ -3,7 +3,6 @@ import React from 'react';
 // import images
 import woman from '../img/woman_hero.png'
 
-
 // import Link
 import {Link} from 'react-router-dom'
 

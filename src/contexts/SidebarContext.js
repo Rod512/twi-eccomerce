@@ -11,7 +11,6 @@ const SidebarProvider = ({children}) => {
         setIsOpen(false)
     }
     
-    
     return (
         <SlidebarContext.Provider value={{isOpen,setIsOpen,handleClose}}>{children}</SlidebarContext.Provider>
     );

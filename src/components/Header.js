@@ -5,8 +5,6 @@ import { SlidebarContext } from '../contexts/SidebarContext';
 // cart context
 import { CartContext } from '../contexts/CartContext';
 
-
-
 // import icons
 import {BsBag} from 'react-icons/bs';
 

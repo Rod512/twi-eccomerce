@@ -29,7 +29,6 @@ const CartProvider = ({children}) => {
         setItemAmount(amount)
        }
 
-
     }, [cart])
 
     // add to cart

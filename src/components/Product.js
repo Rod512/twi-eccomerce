@@ -10,7 +10,6 @@ import {CartContext} from '../contexts/CartContext'
 const Product = ({product}) => {
     const {addToCart} = useContext(CartContext)
 
-
     // desture product
     const { id, image, category, title, price } = product
     return (
